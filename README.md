@@ -19,9 +19,9 @@ pip install Flask validators
 # 3. Run
 python app.py
 
-Open : 
+#Open : 
 
-📁 Files
+#📁 Files
 app.py - Main Flask app
 
 models.py - Database setup
@@ -32,7 +32,7 @@ index.html - Frontend template
 
 style.css - Styling
 
-✨ Features
+#✨ Features
 Instant URL shortening
 
 Click tracking
