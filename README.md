@@ -41,15 +41,21 @@ Deployed and accessible online
 📁 Project Structure
 ----------------
 URL-Shortener/
-│
+
 ├── app.py               # Main Flask application
+
 ├── urls.db              # SQLite database
+
 ├── requirements.txt     # Project dependencies
+
 ├── templates/
 │   └── index.html       # Frontend HTML
+
 ├── static/
 │   └── style.css        # (Optional) Styling
+
 ├── README.md            # Project documentation
+
 
 ⚙️ Installation & Local Setup
 -------------
@@ -109,7 +115,7 @@ Real-world backend workflow
 
 👩‍💻 Author
 -------
-Soundariya Leela
+Soundariya Leela M
 
 📜 License
 -----
