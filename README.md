@@ -1,6 +1,6 @@
 # Codealpha_Tasks
 
-🔗 URL Shortener – Flask Web Application
+#🔗 URL Shortener – Flask Web Application
 
 A simple and efficient URL Shortener web application built using Flask and SQLite, deployed on Render. This application allows users to convert long URLs into short, shareable links and automatically redirects users to the original URL when accessed.
 
