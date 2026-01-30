@@ -1,16 +1,17 @@
 # Codealpha_Tasks
 
-#🔗 URL Shortener – Flask Web Application
+🔗 URL Shortener – Flask Web Application
+--------------------------------
 
 A simple and efficient URL Shortener web application built using Flask and SQLite, deployed on Render. This application allows users to convert long URLs into short, shareable links and automatically redirects users to the original URL when accessed.
 
 🚀 Live Demo
-
+-----
 👉 Deployed URL:
 https://codealpha-tasks-6jda.onrender.com 
 
 🛠️ Technologies Used
-
+---------------------
 Python
 
 Flask
@@ -24,7 +25,7 @@ Gunicorn
 Render (Cloud Deployment)
 
 ✨ Features
-
+-------------------
 Shortens long URLs into compact links
 
 Validates URLs before shortening
@@ -38,6 +39,7 @@ Uses SQLite database
 Deployed and accessible online
 
 📁 Project Structure
+----------------
 URL-Shortener/
 │
 ├── app.py               # Main Flask application
@@ -50,6 +52,7 @@ URL-Shortener/
 ├── README.md            # Project documentation
 
 ⚙️ Installation & Local Setup
+-------------
 1️⃣ Clone the repository
 git clone https://github.com/soundariyaleela/Codealpha_Tasks.git
 cd Codealpha_Tasks
@@ -68,9 +71,10 @@ python app.py
 Open browser and visit:
 
 http://127.0.0.1:5000
+-----------------
 
 🌐 Deployment (Render)
-
+------------
 Runtime: Python
 
 Start Command:
@@ -80,8 +84,9 @@ gunicorn app:app
 
 Database initializes automatically on first run
 
-📌 Example Usage
 
+📌 Example Usage
+---
 Enter a long URL (including http:// or https://)
 
 Click Shorten
@@ -91,7 +96,7 @@ Copy the generated short URL
 Use the short URL to redirect to the original site
 
 🧠 Learning Outcomes
-
+----
 Flask backend development
 
 SQLite database integration
@@ -103,10 +108,10 @@ Debugging production errors
 Real-world backend workflow
 
 👩‍💻 Author
-
+-------
 Soundariya Leela
 
 📜 License
-
+-----
 This project is for educational purposes.
 
